@@ -1,2 +1,1 @@
-# mermaid
-a HS project with pygame
+run the intro.py file
